@@ -2,4 +2,4 @@
 
 This is my git repository for the Coursera course *HTML, CSS, and Javascript for Web Developers*.
 
-[Corresponding DaveInTucson.github.io index page](https://daveintucson.github.io/html+css+js/)
+[Corresponding DaveInTucson.github.io index page](https://daveintucson.github.io/html-css-js/)
