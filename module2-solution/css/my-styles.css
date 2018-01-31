@@ -1,0 +1,49 @@
+body {
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1.title {
+    text-align: center;
+}
+
+
+div.menu-item {
+    border: 1px solid black;
+    background: gray;
+    margin: 1em;
+}
+
+div > h2
+{
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    margin: 0;
+    margin-bottom: .5em;
+    width: 10em;
+    text-align: center;
+    float: right;
+}
+
+div > h2.c1 {
+    background-color: #d59898;
+}
+
+div > h2.c2 {
+    background-color: #c14543;
+    color: white;
+}
+
+div > h2.c3 {
+    background-color: #e5d198;
+}
+
+div.menu-item > p
+{
+    clear: right;
+    padding-left: 1em;
+    padding-right: 1em;
+}
