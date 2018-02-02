@@ -20,4 +20,22 @@ I started with the contents of the `Lecture30/after` folder. This contains
 * An empty `js/script.js`
 * A skeleton `index.html` page
 
-To which I have added this README.md file. 
+To which I have added this README.md file.
+
+## Lecture 30, Part 1: Coding Basics of Navbar Header
+
+### Code modification:
+
+* Added initial `header` / `nav` / `div container` structure to `index.html`.
+* Styled `#header-nav`
+* added logo image div with link
+* styled `#logo-img`, copied over logo images 
+
+### Bootstrap elements:
+
+* `navbar` and `navbar-default`, `navbar-header` classes
+* [Bootstrap navbar documentation](getbootstrap.com/components/#navbar)
+
+### CSS styles
+
+* `border-radius`
