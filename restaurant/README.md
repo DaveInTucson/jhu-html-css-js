@@ -29,7 +29,7 @@ To which I have added this README.md file.
 * Added initial `header` / `nav` / `div container` structure to `index.html`.
 * Styled `#header-nav`
 * added logo image div with link
-* styled `#logo-img`, copied over logo images 
+* styled `#logo-img`, copied over logo images
 
 ### Bootstrap elements:
 
@@ -39,3 +39,19 @@ To which I have added this README.md file.
 ### CSS styles
 
 * `border-radius`
+
+## Lecture 30, Part 2: Navbar Header basics continued
+
+### Code modification
+
+* Added "Kosher Certified" image and text, styled logo anchor to `pull-left`
+* Import Lora font, styling `navbar-brand`
+* added `visible-md` and `visible-large` to logo image
+
+### Bootstrap elements:
+
+* `navbar-brand`, `pull-left`
+
+### CSS stylesheet
+
+* `text-transform`, `text-shadow`, `line-height`, `text-decoration`
