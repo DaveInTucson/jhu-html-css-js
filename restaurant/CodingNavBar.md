@@ -16,7 +16,7 @@ lectures 30 through 33.
 ### Bootstrap elements:
 
 * `navbar` and `navbar-default`, `navbar-header` classes
-* [Bootstrap navbar documentation](getbootstrap.com/components/#navbar)
+* [Bootstrap navbar documentation](http://getbootstrap.com/components/#navbar)
 
 ### CSS styles
 
