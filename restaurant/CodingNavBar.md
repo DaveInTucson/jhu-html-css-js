@@ -67,3 +67,4 @@ lectures 30 through 33.
 ## Lecture 33, Part 2: Fixing Navbar Layout, Text, and Dropdown Menus
 
 * Styling the menu in mobile mode
+* Adding and styling xs phone button (not discussed in video)

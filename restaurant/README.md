@@ -25,5 +25,5 @@ To which I have added this README.md file.
 ## Implementation notes
 
 * [Coding the Navigation Bar of the Site](CodingNavBar.md)
-* Coding the Homepage and the Footer
+* [Coding the Homepage and the Footer](CodingHomeAndFooter.md)
 * Coding the Restaurant Menu Pages
