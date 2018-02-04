@@ -6,7 +6,7 @@ As developed in Lecture 30 and following of the HTML, CSS, and JavaScript course
 I was watching the lectures and not really feeling like I was getting much out of
 it, so I decided to code my own version of the website in parallel with the videos.
 
-This is what that is.
+This code is the result of that process.
 
 ## Starting point
 
