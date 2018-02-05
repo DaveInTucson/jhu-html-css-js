@@ -12,6 +12,15 @@ lectures 34 through 36.
 * styling of jumbotron images
 
 ## Lecture 35, Part 1: Coding Navigation Tiles
+
+* Added menu categories, single category, and map tiles
+* Styling tiles
+
 ## Lecture 35, Part 2: Coding Navigation Tiles
+
+* adding tile images, more styling
+* embed map, styling tiles on xs layout
+* styling for very small devices (iPhone 4)
+
 ## Lecture 36, Part 1: Coding the Footer
 ## Lecture 36, Part 2: Coding the Footer
