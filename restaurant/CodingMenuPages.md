@@ -13,6 +13,7 @@ lectures 37 through 39.
 ## Lecture 37 Part 2: Coding the Menu Categories
 
 * Styling row size for medium and extra small page sizes
+* Created .col-xxs-12 style
 
 ## Lecture 38 Part 1: Coding the Single Menu Category Page
 ## Lecture 38 Part 2: Coding the Single Menu Category Page
