@@ -23,4 +23,10 @@ lectures 34 through 36.
 * styling for very small devices (iPhone 4)
 
 ## Lecture 36, Part 1: Coding the Footer
+
+* Footer HTML, basic styling
+* style tweaking
+
 ## Lecture 36, Part 2: Coding the Footer
+
+* Styling xs footer 
