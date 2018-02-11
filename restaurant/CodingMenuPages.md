@@ -16,6 +16,21 @@ lectures 37 through 39.
 * Created .col-xxs-12 style
 
 ## Lecture 38 Part 1: Coding the Single Menu Category Page
+
+* Make Menu button active on `menu-categories.html`
+* Duplicated `menu-categories.html` to create `single-category.html`, removed `#main-content`
+* Created sample menu category tile in HTML
+
 ## Lecture 38 Part 2: Coding the Single Menu Category Page
+
+* Duplicated sample menu category cell
+* styling cell contents
+* style fixup for extra small mode
+
 ## Lecture 38 Part 3: Coding the Single Menu Category Page
+
+* Create more menu cells by copying
+* increasing length of description for D01
+* fixing layout issues using `clearfix visible-md-block visible-lg-block`
+
 ## Lecture 39: Testing the Mobile Version on a Real Phone
