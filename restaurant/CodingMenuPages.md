@@ -34,3 +34,5 @@ lectures 37 through 39.
 * fixing layout issues using `clearfix visible-md-block visible-lg-block`
 
 ## Lecture 39: Testing the Mobile Version on a Real Phone
+
+* Adding "Home" button to menu in xs mode
